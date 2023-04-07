@@ -7,7 +7,7 @@ A simple social network to create your own community!
 
 This project will allow you to go through reactions, thoughts, users and more!
 
-Using an application such as Insomnia, which is used in my demonstration.
+Using an application such as Insomnia, which is used in my demonstration, you will be able to use the application as intended.
 
 ## Installation
 
